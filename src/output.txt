@@ -1,0 +1,4 @@
+Processed: Welcome to Codessay Warmup!
+This is your first file processing exercise.
+Learning programming step by step
+ 
